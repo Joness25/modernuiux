@@ -30,7 +30,7 @@ export function Navbar() {
           Open an Account
         </p>
 
-        <div className="hidden flex items-center gap-x-2">
+        <div className="flex items-center gap-x-2">
           <Image src={User} alt="User Profile" />
           <span className="hidden font-medium text-[#36485C] lg:block">
             Sign in
